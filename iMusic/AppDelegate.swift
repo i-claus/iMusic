@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  iMusic
 //
-//  Created by Ricardo Casanova on 23/02/2019.
-//  Copyright © 2019 Pijp. All rights reserved.
+//  Created by Claudio Vega 28/07/2019.
+//  Copyright © 2019 Claudio Vega. All rights reserved.
 //
 
 import UIKit
